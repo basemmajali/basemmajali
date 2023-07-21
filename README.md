@@ -1,14 +1,12 @@
-Apologies for the confusion. Here's a comprehensive summary README file, which includes links to other files with explanations of each subject you learned, such as Git:
+# Summary
 
-# Summary of What I Learned
-
-This README contains a comprehensive summary of what I've learned during my journey of learning software development and using Git for version control.
+This README contains a comprehensive summary of what I've learned during my journey of learning software development.
 
 ## Table of Contents
 
 1. [Introduction](./01_introduction.md): An overview of my learning journey and the importance of version control.
 
-2. [Git and Version Control](./Git.md): An in-depth explanation of Git commands, branching, merging, and collaborating with others on projects.
+2. [Git](./Git.md): An in-depth explanation of Git commands, branching, merging, and collaborating with others on projects.
 
 <!-- 3. [HTML and CSS](./02_html_and_css.md): What I learned about building the structure and styling web pages using HTML and CSS.
 
