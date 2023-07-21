@@ -97,3 +97,17 @@ Here are some of the most important Git commands you might find useful during yo
     ```
 
 15. **Resolve Merge Conflicts**: If conflicts occur during a merge, manually resolve them and commit the changes.
+
+16. **Create the Link in Markdown Format**: Open the file where you want to add the link and use the Markdown syntax to create a link to the other file. The general format for creating a link is:
+
+   ```
+   [Link Text](path/to/another/file)
+   ```
+
+   Replace `Link Text` with the text you want to display as the link and `path/to/another/file` with the relative path to the target file from the current location. For example:
+
+   ```
+   [Click here to go to another file](subfolder/another_file.md)
+   ```
+
+
