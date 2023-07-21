@@ -97,15 +97,3 @@ Here are some of the most important Git commands you might find useful during yo
     ```
 
 15. **Resolve Merge Conflicts**: If conflicts occur during a merge, manually resolve them and commit the changes.
-
-Remember to replace `<repository_url>` and `<branch_name>` with the appropriate values for your project.
-
-## License
-
-[Include the license for your project]
-
-## Acknowledgments
-
-[Mention any contributors or external resources you found helpful]
-
-Feel free to add more sections or customize the README to suit your project's specific needs. A well-crafted README can significantly improve the collaboration and understanding of your project for others. Happy coding!
