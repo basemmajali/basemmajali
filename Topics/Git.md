@@ -1,4 +1,4 @@
-![](../Gifs/spidertocat.png)
+<img src="../Gifs/spidertocat.png" alt="Banner Image"  height="300">
 
 # Github
 
