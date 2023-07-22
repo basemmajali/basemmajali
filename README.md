@@ -1,5 +1,5 @@
 # Summary
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 This README contains a comprehensive summary of what I've learned during my journey of learning software development.
 
 ## Table of Contents
