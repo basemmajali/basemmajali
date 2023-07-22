@@ -1,4 +1,4 @@
-![](bannar.png)
+![](./Gifs/bannar.png)
 # Summary
 This README contains a comprehensive summary of what I've learned during my journey of learning software development.
 
@@ -29,4 +29,3 @@ I plan to keep updating this documentation as I continue to learn and grow in my
 
 
 
-<a href="https://www.linkedin.com/in/basem-majalii/"
