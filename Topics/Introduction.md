@@ -1,12 +1,11 @@
-## Overview
+## Overview ![](../bannar2.gif)
 
 In this project, I have embarked on a journey of learning and exploring various aspects of software development. This comprehensive summary serves as a documentation of what I've learned so far, covering a wide range of topics from web development to version control with Git.
 
-## Purpose
-
+## Purpose ![](../bannar2.gif)
 The primary purpose of this documentation is to consolidate my knowledge and provide a reference for myself and others who may find it beneficial. By sharing my learning experiences and insights, I hope to contribute to the developer community and inspire others in their learning journey.
 
-## Topics Covered
+## Topics Covered ![](../bannar2.gif)
 
 The documentation includes explanations and insights on the following topics:
 
@@ -26,6 +25,6 @@ The documentation includes explanations and insights on the following topics:
 - Software Development Life Cycle (SDLC): An overview of the development process.
 - Agile Methodology: Understanding Agile principles for iterative development. -->
 
-## Contribution
+## Contribution ![](../bannar2.gif)
 
 This documentation is a work in progress, and I plan to continue updating it as I learn and expand my knowledge. If you have any suggestions, spot errors, or wish to contribute to this project, feel free to submit issues or pull requests to this repository. Your contributions are greatly appreciated!
