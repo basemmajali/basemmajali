@@ -1,5 +1,5 @@
-# Summary
-![This README contains a comprehensive summary of what I've learned during my journey of learning software development.](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![# Summary](https://github.com/basemmajali/GeeksForGeeks.gif)
+
 This README contains a comprehensive summary of what I've learned during my journey of learning software development.
 
 ## Table of Contents
