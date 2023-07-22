@@ -110,4 +110,55 @@ Here are some of the most important Git commands you might find useful during yo
    [Click here to go to another file](subfolder/another_file.md)
    ```
 
+## Pushing force
+
+
+Pushing force, often referred to as a "force push," is a way to update the remote repository with your local changes forcefully, potentially overwriting existing history. It should be used with caution as it can lead to data loss and disrupt collaboration if not used carefully. Before performing a force push, ensure that you understand the potential consequences and have communicated with your team.
+
+To force push to a remote repository, follow these steps:
+
+1. **Make Sure You Need to Force Push**: Force pushing is generally not recommended unless you have a specific reason, such as correcting a mistake in the commit history or updating the repository after an interactive rebase. If you're working with others on the same branch, be aware that force pushing can cause conflicts for them.
+
+2. **Commit Your Local Changes**: Ensure that all your local changes are committed. You can use the following commands:
+
+   ```
+   git add .
+   git commit -m "Your commit message"
+   ```
+
+3. ***Fetch Latest Changes from Remote***: Before force pushing, it's a good practice to fetch the latest changes from the remote repository to ensure you have the most recent history:
+
+   ```
+   git fetch origin
+   ```
+
+4. **Rebase or Amend Your Changes**: If you need to update your commits before force pushing, you can use interactive rebase or amend commits. For example, to amend the last commit:
+
+   ```
+   git commit --amend
+   ```
+
+   Or to interactively rebase:
+
+   ```
+   git rebase -i HEAD~n
+   ```
+
+   Replace `n` with the number of commits you want to include in the rebase.
+
+5. **Force Push**: Now, you can perform the force push using the following command:
+
+   ```
+   git push --force origin <branch_name>
+   ```
+
+   Replace `<branch_name>` with the name of the branch you want to force push.
+
+   Alternatively, you can use the shorter version of the force push command:
+
+   ```
+   git push -f origin <branch_name>
+   ```
+
+6. **Confirm the Force Push**: After executing the force push command, Git will update the remote repository, and you will see the changes reflected in the remote branch. Be aware that this action cannot be undone, and any existing commits that were not part of the force push will no longer be accessible directly from the branch.
 
