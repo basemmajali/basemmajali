@@ -1,4 +1,5 @@
 <img src="../Gifs/heisencat.png" alt="Banner Image"  height="300">
+
 ## Overview 
 
 In this project, I have embarked on a journey of learning and exploring various aspects of software development. This comprehensive summary serves as a documentation of what I've learned so far, covering a wide range of topics from web development to version control with Git.
