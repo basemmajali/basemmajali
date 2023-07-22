@@ -27,3 +27,6 @@ This README contains a comprehensive summary of what I've learned during my jour
 
 I plan to keep updating this documentation as I continue to learn and grow in my software development journey. If you find any errors or have suggestions to improve this summary, feel free to submit issues or pull requests to this repository.
 
+
+
+<a href="https://linkedin.com/basem-majalii"
