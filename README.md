@@ -4,6 +4,11 @@ This README contains a comprehensive summary of what I've learned during my jour
 
 ## Table of Contents
 
+Subject | Discription
+ ------------ | ------------- 
+[Introduction](./Introduction.md) |  An overview of my learning journey and the importance of version control.
+[Git](./Git.md) | An overview of my learning journey and the importance of version control.
+
 1. [Introduction](./Introduction.md): An overview of my learning journey and the importance of version control.
 
 2. [Git](./Git.md): An in-depth explanation of Git commands, branching, merging, and collaborating with others on projects.
