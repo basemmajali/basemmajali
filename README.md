@@ -29,4 +29,4 @@ I plan to keep updating this documentation as I continue to learn and grow in my
 
 
 
-<a href="https://linkedin.com/basem-majalii"
+<a href="https://www.linkedin.com/in/basem-majalii/"
