@@ -1,7 +1,5 @@
-<img src="../Gifs/spidertocat.png" alt="Banner Image"  height="300">
-
 # Github
-
+<img src="../Gifs/spidertocat.png" alt="Banner Image"  height="300">
 ## Git Commands
 
 Here are some of the most important Git commands you might find useful during your development process:
