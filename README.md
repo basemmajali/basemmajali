@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
+![](bannar.png)
 # Summary
 This README contains a comprehensive summary of what I've learned during my journey of learning software development.
 
