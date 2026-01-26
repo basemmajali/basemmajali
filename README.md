@@ -23,9 +23,7 @@ This README contains a comprehensive summary of what I've learned during my jour
 | 15  | [Software Development Life Cycle](./15_sdlc.md)             | An overview of the software development life cycle and its phases.                                |
 | 16  | [Agile Methodology](./16_agile_methodology.md)              | Understanding Agile principles and practices for iterative development.                           | -->
 
-## Contribution
 
-I plan to keep updating this documentation as I continue to learn and grow in my software development journey. If you find any errors or have suggestions to improve this summary, feel free to submit issues or pull requests to this repository.
 
 
 
